@@ -4,44 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Julia for Starters</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f4f4f9;
-      color: #333;
-    }
-    header {
-      background-color: #6c5ce7;
-      color: white;
-      text-align: center;
-      padding: 20px;
-    }
-    section {
-      margin: 20px;
-      padding: 20px;
-      background-color: white;
-      border-radius: 10px;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    }
-    h1, h2 {
-      color: #6c5ce7;
-    }
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
-    li {
-      margin-bottom: 10px;
-    }
-    footer {
-      text-align: center;
-      padding: 10px;
-      background-color: #ddd;
-      margin-top: 20px;
-    }
-  </style>
 </head>
 <body>
   <header>
