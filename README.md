@@ -6,8 +6,8 @@
 </head>
 <body>
   <header>
-    <h1>Julia for Starters</h1>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/1200px-Julia_Programming_Language_Logo.svg.png" alt="Julia Logo" width="100">
+    <h1>Julia for Starters
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/1200px-Julia_Programming_Language_Logo.svg.png" alt="Julia Logo" width="100"></h1>
     <p>Master the fundamentals of the Julia programming language.</p>
   </header>
 
@@ -57,7 +57,7 @@
     <h2>🚀 Getting Started</h2>
     <p>1. Install Julia from the <a href="https://julialang.org/">official website</a>.</p>
     <p>2. Clone this repository:</p>
-    <pre><code>git clone https://github.com/yourusername/julia-for-starters.git</code></pre>
+    <pre><code>git clone https://github.com/jsdingra11/julia-for-starters.git</code></pre>
     <p>3. Open the Julia REPL and start exploring the code.</p>
   </section>
 
@@ -78,6 +78,7 @@
 
   <footer>
     <p>Happy Coding with Julia! 💻✨</p>
+    <p>ping @ astrodingra.com for any queries.</p>
   </footer>
 </body>
 </html>
